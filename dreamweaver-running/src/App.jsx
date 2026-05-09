@@ -20,14 +20,14 @@ const criteria = [
   {
     icon: Sparkles,
     title: "Human storytelling",
-    text: "A life, voice or point of view that reaches beyond race splits and creates meaningful sponsor fit.",
+    text: "A life, voice or point of view that reaches beyond race results and creates meaningful sponsor fit.",
   },
 ]
 
 const steps = [
   "Identify high-potential trail runners",
   "Interview athletes about their goals and story",
-  "Shape a clear sponsorship narrative",
+  "Shape a clear and authentic sponsorship narrative",
   "Connect runners with aligned brand opportunities",
 ]
 
@@ -44,7 +44,7 @@ function App() {
             </span>
             Dreamweaver Running
           </a>
-          <a href="mailto:hello@dreamweaver.run" className="hidden rounded-full bg-[#172018] px-5 py-2 text-sm font-semibold text-white transition hover:bg-[#2b3d2e] sm:inline-flex">
+          <a href="mailto:jeremy@dreamweaver.run" className="hidden rounded-full bg-[#172018] px-5 py-2 text-sm font-semibold text-white transition hover:bg-[#2b3d2e] sm:inline-flex">
             Contact us
           </a>
         </nav>
@@ -61,7 +61,7 @@ function App() {
               Dreamweaver Running helps emerging and professional trail runners turn race performance, audience growth and authentic personal stories into stronger sponsorship opportunities.
             </p>
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
-              <a href="mailto:hello@dreamweaver.run" className="inline-flex items-center justify-center gap-2 rounded-full bg-[#172018] px-7 py-4 font-semibold text-white shadow-lg shadow-[#172018]/20 transition hover:-translate-y-0.5 hover:bg-[#2b3d2e]">
+              <a href="mailto:jeremy@dreamweaver.run" className="inline-flex items-center justify-center gap-2 rounded-full bg-[#172018] px-7 py-4 font-semibold text-white shadow-lg shadow-[#172018]/20 transition hover:-translate-y-0.5 hover:bg-[#2b3d2e]">
                 Start a conversation <ArrowRight className="h-5 w-5" />
               </a>
               <a href="#approach" className="inline-flex items-center justify-center rounded-full border border-[#172018]/15 bg-white/70 px-7 py-4 font-semibold text-[#172018] transition hover:-translate-y-0.5 hover:bg-white">
@@ -154,7 +154,7 @@ function App() {
           <p className="mx-auto mt-5 max-w-2xl leading-8 text-[#59615a]">
             We’re looking for runners who are competitive, compelling and ready to build long-term partnerships with brands that fit who they are.
           </p>
-          <a href="mailto:hello@dreamweaver.run" className="mt-8 inline-flex items-center justify-center gap-2 rounded-full bg-[#172018] px-7 py-4 font-semibold text-white transition hover:bg-[#2b3d2e]">
+          <a href="mailto:jeremy@dreamweaver.run" className="mt-8 inline-flex items-center justify-center gap-2 rounded-full bg-[#172018] px-7 py-4 font-semibold text-white transition hover:bg-[#2b3d2e]">
             <Mail className="h-5 w-5" /> Get in touch
           </a>
         </div>
